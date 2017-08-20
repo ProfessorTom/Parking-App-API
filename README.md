@@ -22,5 +22,3 @@ Deliverables:
 
 * Please host the code in a git repo and share the link with me.
 * Commit every logical step.
-
-http://www.vertabelo.com/blog/technical-articles/designing-a-data-model-for-a-hotel-room-booking-system 
